@@ -11,6 +11,11 @@ You can follow the analysis on <a href="https://www.kaggle.com/code/shrikrishnap
 ## Introduction 
 Handwritten digit recognition is the process to provide the ability to machines to recognize human handwritten digits. It is not an easy task for the machine because handwritten digits are not perfect, vary from person-to-person, and can be made with many different flavors.
 
+## About Dataset:
+The MNIST dataset is a dataset of handwritten digits, which has 60,000 training samples and 10,000 test samples. Each image is 28x28 pixels and is labeled with the corresponding digit. It is widely used as a benchmark for image classification and machine learning algorithms, and is often used as the "Hello World" of machine learning.
+
+![mnist](mnist.png)
+
 ## ML Algorith Used:  
         - LogisticRegression  
         - SGDClassifier
